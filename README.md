@@ -1,1 +1,1 @@
-# persian-sms-spam-filter
+README_full.md
